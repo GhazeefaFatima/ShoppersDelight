@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "11Qj/cgmghsMlxAvxdTmRvF8esSw6iDwcL/kE2FhET580E3V9nxuXmBhdLm5Ev5b+UJJuGDBxf7K5xxtP03Cgg==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Client\\Libaas Online\\Project\\API\\Api.Domain\\Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GhAzeefA FAtimA\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\GhAzeefA FAtimA\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

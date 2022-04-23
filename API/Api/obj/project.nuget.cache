@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jeLA9pu1197MdMnRef78rLxX6DKtUeG3Yowc4SR6yM+wYCwJA2q0500hZ0lZlpJ9phmguwdKDdiVJO6cFf9lvA==",
+  "success": true,
+  "projectFilePath": "E:\\Projects\\Client\\Libaas Online\\Project\\API\\Api\\Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\GhAzeefA FAtimA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

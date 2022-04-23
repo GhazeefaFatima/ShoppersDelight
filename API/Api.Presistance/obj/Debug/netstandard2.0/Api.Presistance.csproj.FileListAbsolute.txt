@@ -1,0 +1,5 @@
+E:\Projects\Client\Libaas Online\Project\API\Api.Presistance\bin\Debug\netstandard2.0\Api.Application.dll
+E:\Projects\Client\Libaas Online\Project\API\Api.Presistance\bin\Debug\netstandard2.0\Api.Domain.dll
+E:\Projects\Client\Libaas Online\Project\API\Api.Presistance\obj\Debug\netstandard2.0\Api.Presistance.csprojAssemblyReference.cache
+E:\Projects\Client\Libaas Online\Project\API\Api.Presistance\obj\Debug\netstandard2.0\Api.Presistance.AssemblyInfoInputs.cache
+E:\Projects\Client\Libaas Online\Project\API\Api.Presistance\obj\Debug\netstandard2.0\Api.Presistance.AssemblyInfo.cs
